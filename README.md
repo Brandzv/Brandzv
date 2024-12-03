@@ -4,9 +4,9 @@
 
 # Hola, soy Brandon Zamora Vazquez
 
-🎓 **Recién egresado de Ingeniería en Software y Sistemas Computacionales**. Me gusta el desarrollo web y de software, y disfruto de aprender diferentes tecnologías para resolver nuevos desafíos.
+🎓 **Recién egresado de Ingeniería en Software y Sistemas Computacionales**. Me gusta el desarrollo web y de software, y disfruto aprender sobre tecnologías para resolver problemas y seguir mejorando como desarrollador
 
-Durante mi carrera, desarrollé [un sistema de gestión de acceso](https://github.com/Brandzv/Apreac) durante mi servicio social en la **UNID Campus Tuxpan** y [un planificador de horarios y permisos](https://github.com/Brandzv/Geshovap) durante mis prácticas en **La Parroquia de Veracruz, sede Tuxpan**. Estos proyectos me permitieron adentrarme más en tecnologías como Python, PHP y bases de datos SQL. Siempre estoy buscando aprender algo nuevo y crear aplicaciones que ofrezcan soluciones prácticas y efectivas.
+Durante mi carrera, desarrollé [un sistema de gestión de acceso](https://github.com/Brandzv/Apreac) durante mi servicio social en la **UNID Campus Tuxpan** y [un planificador de horarios y permisos](https://github.com/Brandzv/Geshovap) durante mis prácticas en **La Parroquia de Veracruz, sede Tuxpan**. Estos proyectos me permitieron adentrarme más en tecnologías como Python, PHP y bases de datos SQL. Siempre estoy buscando aprender algo nuevo y crear aplicaciones que sean útiles y fáciles de usar.
 
 ---
 
